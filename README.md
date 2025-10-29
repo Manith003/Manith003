@@ -47,6 +47,10 @@
 
 ---
 
+### 🐍 My Contribution
+![GitHub Snake Animation](https://github.com/Manith003/Manith003/blob/main/github-user-contribution.svg)
+
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Manith003&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
@@ -56,11 +60,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Manith003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Manith003&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manith003&theme=dark&hide_border=false&layout=compact)
-
----
-
-### 🐍 My Contribution Snake
-![GitHub Snake Animation](https://github.com/Manith003/Manith003/blob/output/)
 
 ---
 
