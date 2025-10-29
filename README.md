@@ -3,8 +3,8 @@
 
 🎓 **Pursuing BCA from Loyola College, Chennai**  
 💻 **College Student | Learning Gen AI | Building Creative Web Experiences**
+📧 **LinkedIn: (https://www.linkedin.com/in/manith003/)**
 
-📧 **LinkedIn:** (https://www.linkedin.com/in/manith003/)
 ---
 
 ### 🚀 About Me
