@@ -3,7 +3,8 @@
 
 🎓 **Pursuing BCA from Loyola College, Chennai**  
 💻 **College Student | Learning Gen AI | Building Creative Web Experiences**
-📧 **LinkedIn: (https://www.linkedin.com/in/manith003/)**
+
+📧 **LinkedIn: https://www.linkedin.com/in/manith003/**
 
 ---
 
@@ -46,6 +47,11 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Manith003&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+
+---
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Manith003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Manith003&theme=dark&hide_border=false)
@@ -53,8 +59,8 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Manith003&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+### 🐍 My Contribution Snake
+![GitHub Snake Animation](https://github.com/Manith003/Manith003/blob/output/)
 
 ---
 
