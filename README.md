@@ -4,9 +4,7 @@
 🎓 **Pursuing BCA from Loyola College, Chennai**  
 💻 **College Student | Learning Gen AI | Building Creative Web Experiences**
 
-📧 **Email Me:** [manithkumar8190@gmail.com](mailto:manithkumar8190@gmail.com)  
-🌐 **Portfolio:** *(add your website link if available)*  
-
+📧 **LinkedIn:** (https://www.linkedin.com/in/manith003/)
 ---
 
 ### 🚀 About Me
@@ -60,7 +58,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
