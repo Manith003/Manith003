@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Mainth Kumar  
+# 💫 Hi 👋, I'm Manith Kumar  
 **A passionate Full-Stack Developer & GenAI Enthusiast from India 🇮🇳**
 
 🎓 **Pursuing BCA from Loyola College, Chennai**  
