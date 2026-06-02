@@ -1,21 +1,20 @@
-# 💫 Hi 👋, I'm Manith Kumar  
-**A passionate Full-Stack Developer & GenAI Enthusiast from India 🇮🇳**
+# Hi, I'm Manith Kumar  
+**A Full-Stack Developer & GenAI Enthusias**
 
-🎓 **Pursuing BCA from Loyola College, Chennai**  
-💻 **College Student | Learning Gen AI | Building Creative Web Experiences**
+🎓 **BCA Graduate from Loyola College, Chennai**  
+💻 **Full-Stack Developer | GenAI Enthusiast | Building Creative Web Experiences**
 
 📧 **LinkedIn: https://www.linkedin.com/in/manith003/**
 
 ---
 
 ### 🚀 About Me
-- 🌱 **I’m currently learning:** GraphQL | Supabase | Advanced React | AI Integration  
-- 👯 **I’m looking to collaborate on:** Web Dev, AI Projects, or Creative UI Projects  
-- 🤔 **I’m looking for help with:** Advanced backend optimization & real-time data systems  
-- 💬 **Ask me about:** Frontend Development, Animations (GSAP/Shery.js), or Full-Stack Projects  
-- 📫 **How to reach me:** [manithkumar8190@gmail.com](mailto:manithkumar8190@gmail.com)  
-- 😄 **Pronouns:** Manith
-- ⚡ **Fun fact:** I turn complex ideas into interactive web experiences 😄  
+- 🎓 Graduated with a Bachelor of Computer Applications (BCA) from Loyola College, Chennai
+- 🚀 **Building:** Modern Full-Stack Applications and AI-Powered Solutions
+- 🤔 **Exploring:** Backend Optimization, Scalable APIs, Authentication Systems, and Real-Time Applications
+- 💬 **Ask me about:** React, Node.js, MongoDB, Express.js, GSAP, REST APIs, and Full-Stack Development
+- 📫 **Reach me at:** manithkumar8190@gmail.com
+- ⚡ **Fun fact:** I enjoy transforming complex ideas into beautiful and interactive digital experiences.
 
 ---
 
@@ -28,8 +27,6 @@
 ---
 
 # 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,25 +38,11 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ### 🐍 My Contribution
 ![GitHub Snake Animation](https://github.com/Manith003/Manith003/blob/main/github-user-contribution.svg)
-
----
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Manith003&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
-
-
----
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Manith003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Manith003&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manith003&theme=dark&hide_border=false&layout=compact)
 
 ---
 
@@ -68,11 +51,3 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Manith003&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Manith003&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created by Mainth Kumar with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
