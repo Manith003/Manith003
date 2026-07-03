@@ -4,7 +4,7 @@
 🎓 **BCA Graduate from Loyola College, Chennai**  
 💻 **Full-Stack Developer | GenAI Enthusiast | Building Creative Web Experiences**
 
-📧 **LinkedIn: https://www.linkedin.com/in/manith003/**
+📧 **Portfolio: https://www.manith.me/**
 
 ---
 
